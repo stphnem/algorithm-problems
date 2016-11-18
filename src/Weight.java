@@ -2,7 +2,15 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Created by Stephen on 11/17/2016.
+ * Given a maximum weight that a box can hold and an array of weights
+ * of various packages, find the boxes that will maximize profit for the
+ * boxes.
+ *
+ * Ex. Weight: 10
+ *     Weights: [7, 4, 9, 5, 2]
+ *
+ *     Returns [2, 2, 2, 2, 2] because 5 packages fit inside the box
+ *     versus [5, 5] where only 2 will fit in the box.
  */
 public class Weight {
     public Weight(){}
