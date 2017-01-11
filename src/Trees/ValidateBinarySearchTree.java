@@ -27,5 +27,7 @@ public class ValidateBinarySearchTree {
             pre = cur;
             cur = cur.right;
         }
+
+        return true;
     }
 }
