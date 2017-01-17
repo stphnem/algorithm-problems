@@ -1,6 +1,6 @@
 # LeetCode Solutions (Data Structures and Algorithms)
-Algorithm Question Implementations
 
+In order to challenge myself and make sure that I maintain fundamentals of data structures and algorithms, I try to tackle at least one Leetcode problem a day. Below are my solutions.
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
