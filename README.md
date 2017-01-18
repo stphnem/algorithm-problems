@@ -4,4 +4,9 @@ In order to challenge myself and make sure that I maintain fundamentals of data 
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)||Easy|
+|94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/InorderTraversal.java)|Medium]
+|98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
+|110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java] (https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/BalancedBinaryTree.java)|Easy|
+|112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/PathSum.java)|Easy|
+|208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Trie.java)|Medium]
+|449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Codec.java)|Medium|
