@@ -15,4 +15,5 @@ https://www.linkedin.com/in/stephenem
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Trie.java)|Medium
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stacks/MyStack.java)|Easy|
 |232|[Implement Queueu using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Queue/MyQueue.java)|Easy|
+|309|[Elimation Game](https://leetcode.com/problems/elimination-game/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/EliminationGame.java)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Codec.java)|Medium|
