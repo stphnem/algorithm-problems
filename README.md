@@ -7,7 +7,8 @@ https://www.linkedin.com/in/stephenem
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|[Easy]
+|46 |[Permutations](https://leetcode.com/problems/permutations/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Permutations.java)|Medium
+|69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|Easy
 |94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/InorderTraversal.java)|Medium
 |98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java] (https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/BalancedBinaryTree.java)|Easy|
