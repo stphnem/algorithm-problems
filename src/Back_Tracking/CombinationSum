@@ -1,0 +1,26 @@
+/**
+ * 39. Combination Sum
+ * https://leetcode.com/problems/combination-sum/?tab=Description
+ **/
+public class Solution {
+    List<List<Integer>> res = new ArrayList<>();
+    
+    public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        backtrack(0, target, new ArrayList<>(), candidates);
+        return res;
+    }
+    
+    public void backtrack(int start, int rem, List<Integer> temp, int[] candidates) {
+        if (rem == 0) {
+            res.add(new ArrayList<>(temp));
+        } else {
+            for (int i=start; i < candidates.length; i++) {
+                if (rem - candidates[i] >= 0) {
+                    temp.add(candidates[i]);
+                    backtrack(i, rem-candidates[i], temp, candidates);
+                    temp.remove(temp.size() - 1);
+                }
+            }
+        }
+    }
+}
