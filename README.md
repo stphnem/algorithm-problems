@@ -18,6 +18,7 @@ https://www.linkedin.com/in/stephenem
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/BalancedBinaryTree.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/PathSum.java)|Easy|
 |115|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stacks/MinStack.java)|Easy|
+|131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/?tab=Description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/PalindromePartitioning.py)|Medium|
 |208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Trie.java)|Medium|
 |219|[Combination Sum III](https://leetcode.com/problems/combination-sum-iii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/CombinationSumIII.java)|Medium|
 |225|[Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stacks/MyStack.java)|Easy|
