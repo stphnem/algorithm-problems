@@ -1,6 +1,6 @@
 # LeetCode Solutions (Data Structures and Algorithms)
 
-In order to challenge myself and make sure that I maintain fundamentals of data structures and algorithms, I try to tackle at least one Leetcode problem a day. Below are my solutions. Most to all of my solutions are written in Java.
+My solutions to Leetcode problems.
 
 
 https://www.linkedin.com/in/stephenem
