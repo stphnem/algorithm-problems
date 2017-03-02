@@ -8,6 +8,7 @@ https://www.linkedin.com/in/stephenem
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |46 |[Permutations](https://leetcode.com/problems/permutations/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Permutations.java)|Medium
+|47 |[Permutations II](https://leetcode.com/problems/permutations-ii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/PermutationsII.java)|Medium
 |69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|Easy
 |94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/InorderTraversal.java)|Medium
 |98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
@@ -20,3 +21,4 @@ https://www.linkedin.com/in/stephenem
 |309|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/EliminationGame.java)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Codec.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/FindLargestValueinEachTreeRow.java)|Medium|
+|526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/BeautifulArrangement.java)|Medium
