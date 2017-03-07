@@ -29,5 +29,6 @@ https://www.linkedin.com/in/stephenem
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stack/AddTwoNumbersII.java)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Codec.java)|Medium|
 |450|[Delete Node From BST](https://leetcode.com/problems/delete-node-in-a-bst/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/master/Trees/DeleteNodeFromBST)|Medium|
+|486|[Predict The Winner](https://leetcode.com/problems/predict-the-winner/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/PredictTheWinner.java)|Medium|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/FindLargestValueinEachTreeRow.java)|Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/BeautifulArrangement.java)|Medium
