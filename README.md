@@ -33,7 +33,9 @@ https://www.linkedin.com/in/stephenem
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stack/AddTwoNumbersII.java)|Medium|
 |449|[Serialize and Deserialize BST](https://leetcode.com/problems/serialize-and-deserialize-bst/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/Codec.java)|Medium|
 |450|[Delete Node From BST](https://leetcode.com/problems/delete-node-in-a-bst/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/master/Trees/DeleteNodeFromBST)|Medium|
+|452|[Minimum Number of Arrays to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)|[Java](https://github.com/stphnem/algorithm-problems/master/Greedy/FindMinArrayShots.java)|Medium
 |486|[Predict The Winner](https://leetcode.com/problems/predict-the-winner/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/PredictTheWinner.java)|Medium|
+|496|[Next Greater Element](https://leetcode.com/problems/next-greater-element-i/#/description)|[Java](https://github.com/stphnem/algorithm-problems/master/Stacks/NextGreaterElement.java)|Easy|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/FindLargestValueinEachTreeRow.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/?tab=Description)|[Java]()|Medium|
 |526|[Beautiful Arrangement](https://leetcode.com/problems/beautiful-arrangement/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/BeautifulArrangement.java)|Medium
