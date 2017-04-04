@@ -14,7 +14,7 @@ https://www.linkedin.com/in/stephenem
 |47 |[Permutations II](https://leetcode.com/problems/permutations-ii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/PermutationsII.java)|Medium
 |51 |[N Queens](https://leetcode.com/problems/n-queens/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/NQueens.java)|Hard|
 |69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|Easy
-|78 |[Subsets](https://leetcode.com/problems/subsets/#/description)[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Subsets.java)|Medium|
+|78 |[Subsets](https://leetcode.com/problems/subsets/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Subsets.java)|Medium|
 |94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/InorderTraversal.java)|Medium
 |98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/BalancedBinaryTree.java)|Easy|
