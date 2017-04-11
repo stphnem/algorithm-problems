@@ -39,6 +39,7 @@ https://www.linkedin.com/in/stephenem
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/IslandPerimeter.java)|Easy|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/String/ValidateIPAddress.java)|Medium|
 |486|[Predict The Winner](https://leetcode.com/problems/predict-the-winner/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/PredictTheWinner.java)|Medium|
+|494|[Target Sum](https://leetcode.com/problems/target-sum/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/TargetSum.java)|Medium|
 |496|[Next Greater Element](https://leetcode.com/problems/next-greater-element-i/#/description)|[Java](https://github.com/stphnem/algorithm-problems/master/Stacks/NextGreaterElement.java)|Easy|
 |515|[Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/FindLargestValueinEachTreeRow.java)|Medium|
 |516|[Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/?tab=Description)|[Java]()|Medium|
