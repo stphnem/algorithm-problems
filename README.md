@@ -19,6 +19,7 @@ https://www.linkedin.com/in/stephenem
 |98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
 |110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/BalancedBinaryTree.java)|Easy|
 |112|[Path Sum](https://leetcode.com/problems/path-sum/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/PathSum.java)|Easy|
+|114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/#/solutions)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/FlattenBinaryTree.java)|Medium|
 |115|[Min Stack](https://leetcode.com/problems/min-stack/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stacks/MinStack.java)|Easy|
 |131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/?tab=Description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/PalindromePartitioning.py)|Medium|
 |146|[LRU Cache](https://leetcode.com/problems/lru-cache/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/LRUCache.java)|Hard|
