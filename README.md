@@ -40,6 +40,7 @@ https://www.linkedin.com/in/stephenem
 |452|[Minimum Number of Arrays to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/#/description)|[Java](https://github.com/stphnem/algorithm-problems/master/Greedy/FindMinArrayShots.java)|Medium|
 |463|[Island Perimeter](https://leetcode.com/problems/island-perimeter/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/IslandPerimeter.java)|Easy|
 |468|[Validate IP Address](https://leetcode.com/problems/validate-ip-address/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/String/ValidateIPAddress.java)|Medium|
+|475|[Heaters](https://leetcode.com/problems/heaters/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/Heaters.py)|Easy|
 |486|[Predict The Winner](https://leetcode.com/problems/predict-the-winner/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/PredictTheWinner.java)|Medium|
 |494|[Target Sum](https://leetcode.com/problems/target-sum/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/TargetSum.java)|Medium|
 |496|[Next Greater Element](https://leetcode.com/problems/next-greater-element-i/#/description)|[Java](https://github.com/stphnem/algorithm-problems/master/Stacks/NextGreaterElement.java)|Easy|
