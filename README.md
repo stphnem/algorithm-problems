@@ -13,7 +13,7 @@ https://www.linkedin.com/in/stephenem
 |40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/CombinationSumII)|Medium|
 |46 |[Permutations](https://leetcode.com/problems/permutations/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Permutations.java)|Medium
 |47 |[Permutations II](https://leetcode.com/problems/permutations-ii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/PermutationsII.java)|Medium
-|48 |[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/RotateImage.java)|Medium|
+|48 |[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/RotateImage.py)|Medium|
 |51 |[N Queens](https://leetcode.com/problems/n-queens/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/NQueens.java)|Hard|
 |69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|Easy
 |78 |[Subsets](https://leetcode.com/problems/subsets/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Subsets.java)|Medium|
