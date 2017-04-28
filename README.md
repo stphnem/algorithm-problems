@@ -16,6 +16,7 @@ https://www.linkedin.com/in/stephenem
 |48 |[Rotate Image](https://leetcode.com/problems/rotate-image/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/RotateImage.py)|Medium|
 |51 |[N Queens](https://leetcode.com/problems/n-queens/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/NQueens.java)|Hard|
 |69 |[Sqrt(x)](https://leetcode.com/problems/sqrtx/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/Sqrt.java)|Easy
+|73 |[Zero Matrix](https://leetcode.com/problems/set-matrix-zeroes/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/ZeroMatrix.py)|Medium|
 |78 |[Subsets](https://leetcode.com/problems/subsets/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Subsets.java)|Medium|
 |94 |[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/InorderTraversal.java)|Medium
 |98 |[Validate Binary Search Tree]()|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Trees/ValidateBinarySearchTree.java)|Medium|
