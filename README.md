@@ -34,6 +34,7 @@ https://www.linkedin.com/in/stephenem
 |300|[Longest Increasing Subseq](https://leetcode.com/problems/longest-increasing-subsequence/?tab=Description)|[Java]()|Medium|
 |309|[Elimination Game](https://leetcode.com/problems/elimination-game/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Math/EliminationGame.java)|Medium|
 |322|[Coin Change](https://leetcode.com/problems/coin-change/?tab=Description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/CoinChange.python)|Medium|
+|394|[Decode String](https://leetcode.com/problems/decode-string/#/description)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Stacks/DecodeString.py)|Medium|
 |416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/DP/PartitionEqualSubsetSum.java)|Medium|
 |419|[Battleships in a Board](https://leetcode.com/problems/battleships-in-a-board/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/Battleship.java)|Medium|
 |445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Stack/AddTwoNumbersII.java)|Medium|
