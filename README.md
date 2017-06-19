@@ -9,7 +9,7 @@ https://www.linkedin.com/in/stephenem
 |---| ----- | -------- | ---------- |
 |12 |[Integer To Roman](https://leetcode.com/problems/integer-to-roman/#/description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/IntegerToRoman.java)|Medium|
 |22 |[Generate Parentheses](https://leetcode.com/problems/generate-parentheses/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/GenerateParentheses.java)|Medium|
-|34 |[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[Python](https://github.com/stphnem/algorithm-problems/tree/master/src/Arrays)|Medium|
+|34 |[Search for a Range](https://leetcode.com/problems/search-for-a-range/)|[Python](https://github.com/stphnem/algorithm-problems/blob/master/src/Arrays/SearchForRange.py)|Medium|
 |39 |[Combination Sum](https://leetcode.com/problems/combination-sum/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/CombinationSum)|Medium|
 |40 |[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/CombinationSumII)|Medium|
 |46 |[Permutations](https://leetcode.com/problems/permutations/?tab=Description)|[Java](https://github.com/stphnem/algorithm-problems/blob/master/src/Back_Tracking/Permutations.java)|Medium
